@@ -1,0 +1,1 @@
+This is practice code for the "Machine Learning with Python" video series I'm following at https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v. Learning machine learning with financial data.
